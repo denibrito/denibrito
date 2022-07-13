@@ -8,7 +8,7 @@
 
 ## 
 #### Projetos:
-📌 Sem projetos no momento.
+📌 [Simulador de Partidas de Futebol](https://github.com/denibrito/simuladorPartidaFutebol) 
 ##
 #### Linguagens em aperfeiçoamento:
 
