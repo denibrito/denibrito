@@ -9,6 +9,8 @@
 ## 
 #### Projetos:
 📌 [Simulador de Partidas de Futebol](https://github.com/denibrito/simuladorPartidaFutebol) 
+
+📌 [API Rest Aritmética Básica](https://github.com/denibrito/api-op-aritmeticas-basicas) 
 ##
 #### Linguagens em aperfeiçoamento:
 
